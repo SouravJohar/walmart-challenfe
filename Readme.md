@@ -17,4 +17,4 @@ This command line tool enables the booking of theatre tickets. This is a part of
 ## Usage:
 
 ```seat_booker.py [-h] [--rows ROWS] [--columns COLUMNS] --infile INFILE --outfile OUTFILE
-seat_booker.py: error: the following arguments are required: --infile, --outfile```
+seat_booker.py: error: the following arguments are required: --infile, --outfile
